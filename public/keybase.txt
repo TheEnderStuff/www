@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/ktrvs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ktrvs.com
+  * I am ktrvs (https://keybase.io/ktrvs) on keybase.
+  * I have a public key ASCzBw-gEse2AobfRfL4mPPWKJ1_b4PLW-fCLc3SzYixyQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b018e414be536283bcf7b43eeb1a35d45208b6da8c545dee9e1aac1d97ff4fd30a",
+      "host": "keybase.io",
+      "kid": "0120b3070fa012c7b60286df45f2f898f3d6289d7f6f83cb5be7c22dcdd2cd88b1c90a",
+      "uid": "9961b0766cfe7ce313b511ffab64fe19",
+      "username": "ktrvs"
+    },
+    "merkle_root": {
+      "ctime": 1520966846,
+      "hash": "39f21ffbba455768f74b9c2469b0a9e53c0f83f05687b71736ebc9b3422c48c0abc07d5a3bbcabf5f4e0fcb2fbdffdc08b39e531c5a4e381c696b4a0b38e6412",
+      "hash_meta": "0da8f0d7edf14c76d955d730845e8e34cf6f29e0fdbfe6312d423920544e8039",
+      "seqno": 2231294
+    },
+    "service": {
+      "hostname": "ktrvs.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1520966860,
+  "expire_in": 504576000,
+  "prev": "b9d3f3bd75db6dd49efaf5edb3cec5cea26fd78c851416aede4d4e6a121fdea8",
+  "seqno": 57,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgswcPoBLHtgKG30Xy+Jjz1iidf2+Dy1vnwi3N0s2IsckKp3BheWxvYWTFAz97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxYjAxOGU0MTRiZTUzNjI4M2JjZjdiNDNlZWIxYTM1ZDQ1MjA4YjZkYThjNTQ1ZGVlOWUxYWFjMWQ5N2ZmNGZkMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjMwNzBmYTAxMmM3YjYwMjg2ZGY0NWYyZjg5OGYzZDYyODlkN2Y2ZjgzY2I1YmU3YzIyZGNkZDJjZDg4YjFjOTBhIiwidWlkIjoiOTk2MWIwNzY2Y2ZlN2NlMzEzYjUxMWZmYWI2NGZlMTkiLCJ1c2VybmFtZSI6Imt0cnZzIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIwOTY2ODQ2LCJoYXNoIjoiMzlmMjFmZmJiYTQ1NTc2OGY3NGI5YzI0NjliMGE5ZTUzYzBmODNmMDU2ODdiNzE3MzZlYmM5YjM0MjJjNDhjMGFiYzA3ZDVhM2JiY2FiZjVmNGUwZmNiMmZiZGZmZGMwOGIzOWU1MzFjNWE0ZTM4MWM2OTZiNGEwYjM4ZTY0MTIiLCJoYXNoX21ldGEiOiIwZGE4ZjBkN2VkZjE0Yzc2ZDk1NWQ3MzA4NDVlOGUzNGNmNmYyOWUwZmRiZmU2MzEyZDQyMzkyMDU0NGU4MDM5Iiwic2Vxbm8iOjIyMzEyOTR9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoia3RydnMuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDUifSwiY3RpbWUiOjE1MjA5NjY4NjAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYjlkM2YzYmQ3NWRiNmRkNDllZmFmNWVkYjNjZWM1Y2VhMjZmZDc4Yzg1MTQxNmFlZGU0ZDRlNmExMjFmZGVhOCIsInNlcW5vIjo1NywidGFnIjoic2lnbmF0dXJlIn2jc2lnxECPiak6PZnfEcALpp+GVs62nNwivrlpN3JIRXVDq2TQQya1fLdVE8RuO7vj1bhHOeFJEXZSATAiz82njgBI2GQCqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgOvjHzxnueNTJHv07/5iXgI2ECPGsVGQWZOnbKutbxWyjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ktrvs
+
+==================================================================
