@@ -14,7 +14,6 @@
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.9/css/all.css" integrity="sha384-5SOiIsAziJl6AWe0HWRKTXlfcSHKmYV4RBF18PPJ173Kzn7jzMyFuTtk8JA7QQG1" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" integrity="sha384-OHBBOqpYHNsIqQy8hL1U+8OXf9hH6QRxi0+EODezv82DfnZoV7qoHAZDwMwEJvSw" crossorigin="anonymous">
-    <link rel="stylesheet" href="./assets/styles/styles.css">
 
     <link rel="apple-touch-icon" sizes="57x57" href="assets/favicons/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="assets/favicons/apple-icon-60x60.png">
@@ -33,7 +32,37 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-        </head>
+
+<style>
+ @font-face{font-family:'WavehausBook';src:url('/assets/fonts/Wavehaus-66Book.eot');src:url('/assets/fonts/Wavehaus-66Book.woff2') format('woff2'), url('/assets/fonts/Wavehaus-66Book.woff') format('woff'), url('/assets/fonts/Wavehaus-66Book.ttf') format('truetype'), url('/assets/fonts/Wavehaus-66Book.eot?#iefix') format('embedded-opentype');font-weight:normal;font-style:normal;}
+ @font-face{font-family:'WavehausLight';src:url('/assets/fonts/Wavehaus-66Light.eot');src:url('/assets/fonts/Wavehaus-66Light.woff2') format('woff2'), url('/assets/fonts/Wavehaus-66Light.woff') format('woff'), url('/assets/fonts/Wavehaus-66Light.ttf') format('truetype'), url('/assets/fonts/Wavehaus-66Light.eot?#iefix') format('embedded-opentype');font-weight:normal;font-style:normal;}
+ @font-face{font-family:'WavehausThin';src:url('/assets/fonts/Wavehaus-66Thin.eot');src:url('/assets/fonts/Wavehaus-66Thin.woff2') format('woff2'), url('/assets/fonts/Wavehaus-66Thin.woff') format('woff'), url('/assets/fonts/Wavehaus-66Thin.ttf') format('truetype'), url('/assets/fonts/Wavehaus-66Thin.eot?#iefix') format('embedded-opentype');font-weight:normal;font-style:normal;}
+ *{margin:0;padding:0;-webkit-box-sizing:border-box;box-sizing:border-box;text-decoration:none;}
+ *:focus{outline:none;}
+ *::selection{background-color:#1f1f1f;}
+ html,
+ body{background-color:#000;color:#fff;font-family:'WavehausBook', sans-serif;font-weight:400;font-size:16px;height:100%;text-rendering:optimizeLegibility;text-align:center;text-transform:none;overflow:hidden;display:flex;flex-direction:column;}
+ .background{height:100vh;position:relative;background-position:center;background-size:cover;overflow:hidden;z-index:0;background-image:url(./assets/images/background.png);transform:scale(1.2);}
+ .full{position:fixed;top:0;height:100vh;width:100vw;display:flex;align-items:center;justify-content:center;}
+ .full .full-container{background-color:#fff;width:60%;height:65%;display:flex;align-items:center;justify-content:center;border-radius:50px;}
+ .full img{height:210px;width:auto;display:inline-block;}
+ .bio h1{color:#fff;font-family:'WavehausBook', sans-serif;font-size:310%;letter-spacing:6px;color:#1F1F1F;height:auto;}
+ .full-container hr{width:35%;margin:35px auto;padding:0;border:.85px solid #1F1F1F;}
+ .bio p{color:#1F1F1F;font-size:110%;letter-spacing:.5px;width:65%;margin:auto;margin-top:10px;}
+ header nav{position:absolute;top:0;padding:20px 0;display:flex;justify-content:flex-start;align-items:center;z-index:25;}
+ header nav ul{margin:0 30px;list-style:none;}
+ header nav ul > li{display:inline-block;margin-right:20px;}
+ header nav ul li a{font-size:135%;color:#fff;-webkit-transition:color .3s cubic-bezier(0.165, 0.84, 0.44, 1);transition:color .3s cubic-bezier(0.165, 0.84, 0.44, 1);}
+ header nav ul li a:hover{color:#ddd;}
+ footer{padding:20px 25px;display:flex;justify-content:center;align-items:center;}
+ footer p a{color:#fff;-webkit-transition:color .3s cubic-bezier(0.165, 0.84, 0.44, 1);transition:color .3s cubic-bezier(0.165, 0.84, 0.44, 1);}
+ footer p a:hover{color:#ddd;}
+ @media only screen and (max-width:640px){.bio p{width:95%;}
+ .full-container hr{width:65%;}
+ .full img{height:145px;}
+ }
+</style>
+</head>
 
 <body background="./assets/images/background.png" class="animated fadeIn">
     <div class="background" parallax-speed="0.015" data-revert="true"></div>
