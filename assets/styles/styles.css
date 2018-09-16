@@ -11,7 +11,7 @@ body{background-color:#000;color:#fff;font-family:'WavehausBook', sans-serif;fon
 .full .full-container{background-color:#fff;width:60%;height:65%;display:flex;align-items:center;justify-content:center;border-radius:20px;}
 .full img{height:210px;width:auto;display:inline-block;}
 .bio h1{color:#fff;font-family:'WavehausBook', sans-serif;font-size:310%;letter-spacing:6px;color:#1F1F1F;height:auto;}
-.full-container hr{width:35%;margin:35px auto;padding:0;border:.85px solid #1F1F1F;}
+.full-container hr{width:50%;margin:35px auto;padding:0;border:.85px solid #1F1F1F;}
 .bio p{color:#1F1F1F;font-size:110%;letter-spacing:.5px;width:65%;margin:auto;margin-top:10px;}
 header nav{position:absolute;top:0;padding:20px 0;display:flex;justify-content:flex-start;align-items:center;z-index:25;}
 header nav ul{margin:0 30px;list-style:none;}
@@ -21,7 +21,7 @@ header nav ul li a:hover{color:#ddd;}
 footer{padding:20px 25px;display:flex;justify-content:center;align-items:center;}
 footer p a{color:#fff;-webkit-transition:color .3s cubic-bezier(0.165, 0.84, 0.44, 1);transition:color .3s cubic-bezier(0.165, 0.84, 0.44, 1);}
 footer p a:hover{color:#ddd;}
-@media only screen and (max-width:650px){.bio p{width:100%;}
+@media only screen and (max-width:650px){.bio p{width:110px;}
 .full-container hr{width:65%;}
 .full img{height:145px;}
 }
