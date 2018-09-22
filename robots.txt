@@ -1,0 +1,80 @@
+#        __
+#    _   |@@|
+#   / \ \--/ __
+#   ) O|----|  |   __
+#  / / \ }{ /\ )_ / _\
+#  )/  /\__/\ \__O (__
+# |/  (--/\--)    \__/
+# /   _)(  )(_
+#    `---''---`
+   
+
+User-agent: Applebot
+Disallow: /assets/fontawesome/
+Disallow: /.gitignore
+Disallow: /README.md/
+
+User-agent: baiduspider
+Disallow: /assets/fontawesome/
+Disallow: /.gitignore
+Disallow: /README.md/
+
+User-agent: Bingbot
+Disallow: /assets/fontawesome/
+Disallow: /.gitignore
+Disallow: /README.md/
+
+User-agent: DuckDuckBot
+Disallow: /assets/fontawesome/
+Disallow: /.gitignore
+Disallow: /README.md/
+
+User-agent: Googlebot
+Disallow: /assets/fontawesome/
+Disallow: /.gitignore
+Disallow: /README.md/
+
+User-agent: ia_archiver
+Disallow: /assets/fontawesome/
+Disallow: /.gitignore
+Disallow: /README.md/
+
+User-agent: msnbot
+Disallow: /assets/fontawesome/
+Disallow: /.gitignore
+Disallow: /README.md/
+
+User-agent: Naverbot
+Disallow: /assets/fontawesome/
+Disallow: /.gitignore
+Disallow: /README.md/
+
+User-agent: seznambot
+Disallow: /assets/fontawesome/
+Disallow: /.gitignore
+Disallow: /README.md/
+
+User-agent: Slurp
+Disallow: /assets/fontawesome/
+Disallow: /.gitignore
+Disallow: /README.md/
+
+User-agent: teoma
+Disallow: /assets/fontawesome/
+Disallow: /.gitignore
+Disallow: /README.md/
+
+User-agent: Twitterbot
+Disallow: /assets/fontawesome/
+Disallow: /.gitignore
+Disallow: /README.md/
+
+User-agent: Yandex
+Disallow: /assets/fontawesome/
+Disallow: /.gitignore
+Disallow: /README.md/
+
+User-agent: Yeti
+Disallow: /assets/fontawesome/
+Disallow: /.gitignore
+Disallow: /README.md/
