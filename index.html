@@ -68,14 +68,33 @@
         <p><i class="fas fa-code"></i> with <i class="fas fa-heart"></i> by kerrtrvs and <a href="https://www.hexsphere.com" target="_blank">Hexsphere</a></p>
     </footer>
 
-    <script type="text/javascript" id="cookieinfo"
-	 src="//cookieinfoscript.com/js/cookieinfo.min.js">
-    </script>
-
 </body>
 
 <script src="https://cdn.jsdelivr.net/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.15.0/TweenMax.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#edeff5",
+      "text": "#838391"
+    },
+    "button": {
+      "background": "#4b81e8"
+    }
+  },
+  "theme": "classic",
+  "position": "bottom-right",
+  "content": {
+    "message": "This site uses cookies.\n\n",
+    "dismiss": "Got It!"
+  }
+})});
+</script>
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125816613-1"></script>
 <script>
